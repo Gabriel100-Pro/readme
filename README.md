@@ -36,7 +36,7 @@ Este README tem o objetivo de apresentar uma boa documentação referente a proj
 ## :rocket: Status do Projeto
 <h4> Em construção</h4>
 
-# Características
+# ☑️:Características
 Cadastro de usuário
 
 Cadastro de cliente
