@@ -33,5 +33,5 @@ Este README tem o objetivo de apresentar uma boa documentação referente a proj
    <a href="">Tecnologias</a>
 </ul> -->
 
-## 🪖: Status do Projeto
+## :sun: Status do Projeto
 <h4> Em construção</h4>
