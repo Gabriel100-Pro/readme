@@ -36,7 +36,7 @@ Este README tem o objetivo de apresentar uma boa documentação referente a proj
 ## :rocket: Status do Projeto
 <h4> Em construção</h4>
 
-# ☑️:Características
+# ✔️ Características
 Cadastro de usuário
 
 Cadastro de cliente
@@ -49,9 +49,9 @@ Antes de começar você precisa instalar em sua máquina as seguintes ferramenta
 
 Além disto é bom ter um editor para trabalhar com o código como <a href="https://code.visualstudio.com/">VScode </a>
 
-## Rodando o Back End (servidor)
+## 🔨 Rodando o Back End (servidor)
 
-## Mapa do Projeto
+## 🗺️Mapa do Projeto
 
 Abaixo segue a estrutura de pastas e suas definições:
 
