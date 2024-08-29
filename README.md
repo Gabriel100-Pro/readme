@@ -51,11 +51,11 @@ Além disto é bom ter um editor para trabalhar com o código como <a href="http
 
 ## 🔨 Rodando o Back End (servidor)
 
-## 🗺️Mapa do Projeto
+## 🗺️ Mapa do Projeto
 
 Abaixo segue a estrutura de pastas e suas definições:
 
-## ⚙Tecnologias
+##  ⚙ Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
