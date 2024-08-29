@@ -55,7 +55,7 @@ Além disto é bom ter um editor para trabalhar com o código como <a href="http
 
 Abaixo segue a estrutura de pastas e suas definições:
 
-## Tecnologias
+## :⚙Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
