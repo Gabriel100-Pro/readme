@@ -18,13 +18,15 @@ Este README tem o objetivo de apresentar uma boa documentação referente a proj
 [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
 [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-
+<div id="TabeladeConteudo">
 ## Tabela de contúdo
-
+<div>
 
 <ul>
     <li> <a href="#descricao">Descrição Projeto</a></li>
-    <li> <a href="">Tecnologias</a></li>
+    <li> <a href="StatusdoProjeto">Status do Projeto</a></li>
+     <li> <a href="TabeladeConteudo">Tabela de Conteúdo </a></li>
+     <li> <a href="tecnologias">Tecnologias</a></li>
 </ul>
 
 <!-- ou -->
@@ -32,10 +34,10 @@ Este README tem o objetivo de apresentar uma boa documentação referente a proj
      <a href="#descricao">Descrição Projeto</a>
    <a href="">Tecnologias</a>
 </ul> -->
-
+<div id="StatusdoProjeto">
 ## :rocket: Status do Projeto
 <h4> Em construção</h4>
-
+</div>
 # ✔️ Características
 Cadastro de usuário
 
@@ -55,8 +57,9 @@ Além disto é bom ter um editor para trabalhar com o código como <a href="http
 
 Abaixo segue a estrutura de pastas e suas definições:
 
+<div id="tecnologias">
 ##  ⚙ Tecnologias
-
+</div>
 As seguintes ferramentas foram usadas na construção do projeto:
 
 
@@ -70,4 +73,5 @@ Nenhum lançamento publicado
 
 #### Pacotes
 Nenhum pacote publicado
+
 
