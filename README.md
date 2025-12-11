@@ -1,77 +1,35 @@
-<p width="100%" align="center">
-    <img src="./imagem/logo.jpg" width="250px">
-</P>
+## Hi there 😎
 
-<h1 id="descricao" align="center">Padrão README</h1>
+Sou Gabriel Carlos, um programador Front End apaixonado por tecnologia!  
+Aqui é onde passo a maior parte do meu tempo, transformando imaginação e criatividade em código.
 
-Este README tem o objetivo de apresentar uma boa documentação referente a projetos no GITHUB.
+- 💬 Pergunte-me sobre qualquer coisa!
+- 📫 Como falar comigo: em breve adicionarei redes sociais.
 
-#### será apresentado o segunite:
+---
 
-- Badges
-- Menu / Tabela de Conteúdo
-- Tecnologias ultilizadas
-<br>
-<br>
+## 🚀 Tecnologias e Ferramentas
 
-[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
-[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
-[![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-<div id="TabeladeConteudo">
-## Tabela de contúdo
-<div>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-<ul>
-    <li> <a href="#descricao">Descrição Projeto</a></li>
-    <li> <a href="StatusdoProjeto">Status do Projeto</a></li>
-     <li> <a href="TabeladeConteudo">Tabela de Conteúdo </a></li>
-     <li> <a href="tecnologias">Tecnologias</a></li>
-</ul>
+---
 
-<!-- ou -->
-<!-- <ul>
-     <a href="#descricao">Descrição Projeto</a>
-   <a href="">Tecnologias</a>
-</ul> -->
-<div class="StatusdoProjeto">
-## :rocket: Status do Projeto
-<h4> Em construção</h4>
-</div>
-# ✔️ Características
-Cadastro de usuário
+## 📊 GitHub Stats
 
-Cadastro de cliente
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriel100-Pro&theme=tokyonight" />
 
-Cadastro de produtos
+<br/><br/>
 
-# Pré-requisitos
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabriel100-Pro&theme=tokyonight" />
 
-Antes de começar você precisa instalar em sua máquina as seguintes ferramentas: <a href="https://git-scm.com/">Git</a> e <a href="https://dotnet.microsoft.com/pt-br/download/dotnet/6.0">Donet 6.</a>
+<br/><br/>
 
-Além disto é bom ter um editor para trabalhar com o código como <a href="https://code.visualstudio.com/">VScode </a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gabriel100-Pro&theme=tokyonight" />
 
-## 🔨 Rodando o Back End (servidor)
-
-## 🗺️ Mapa do Projeto
-
-Abaixo segue a estrutura de pastas e suas definições:
-
-<div id="tecnologias">
-##  ⚙ Tecnologias
-</div>
-As seguintes ferramentas foram usadas na construção do projeto:
-
-
-- <a href="https://dotnet.microsoft.com/pt-br/download/dotnet/6.0"> Dotnet</a>
-- <a href="https://dotnet.microsoft.com/pt-br/download/dotnet/6.0"> C#</a>
-- <a href="https://www.rabbitmq.com/"> CoelhoMQ</a>
-- <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">ServidorSQL</a>
-
-#### Lançamentos
-Nenhum lançamento publicado
-
-#### Pacotes
-Nenhum pacote publicado
+<br/><br/>
 
 
